@@ -6,16 +6,14 @@ The Madhav E-Commerce Store wants to create an annual sales report for 2018. So 
 - <a href="https://github.com/Nishant1O1/Online-Sales-Dashboard/blob/main/Orders.csv">Order CSV</a>
 
 ## Questions (KPIs)
-•	Compare the sales and orders using single chart.
-•	Which quater got the highest sales and orders?
-•	What was the most used means of payment?
-•	What are different order status in 2018?
-•	List top 4 states contributing to the sales?
-•	Which Channel is contributing maximum to the sales?
-•	Highest selling category?
-•	Sum Total number of orders.
-•	Dashboard Interaction View Dashboard
-
+- Compare the sales and orders using single chart.
+- Which quater got the highest sales and orders?
+- What was the most used means of payment?
+- What are different order status in 2018?
+- List top 4 states contributing to the sales?
+- Which Channel is contributing maximum to the sales?
+- Highest selling category?
+- Sum Total number of orders.
 - Dashboard Interaction <a href="https://github.com/Nishant1O1/Online-Sales-Dashboard/blob/main/Dasboard%20screenshot.png"> View Dashboard</a>
 
 ## Process
