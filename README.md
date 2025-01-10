@@ -25,5 +25,8 @@ The Madhav E-Commerce Store wants to create an annual sales report for 2018. So 
 ## Dashboard
 <img width="677" alt="Dasboard screenshot" src="https://github.com/user-attachments/assets/943be19c-b4ba-4e6a-971d-a0e1839289ed" />
 
-
+## Project Insight
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- Most of the buyer do transactions in Cash.
+- The maximum number of products customer orders from Madhav store is clothing on an average 60% of sales in each quarter.
 
