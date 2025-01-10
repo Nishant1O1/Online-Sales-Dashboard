@@ -23,6 +23,7 @@ The Madhav E-Commerce Store wants to create an annual sales report for 2018. So 
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
+<img width="677" alt="Dasboard screenshot" src="https://github.com/user-attachments/assets/943be19c-b4ba-4e6a-971d-a0e1839289ed" />
 
 
 
